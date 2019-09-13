@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tosbi</string>
+    <string name="title_home">About</string>
+    <string name="title_dashboard">Contact</string>
+    <string name="title_notifications">Rate Us</string>
+    <string name="title_activity_allahu_akbar">AllahuAkbarActivity</string>
+    <string name="title_activity_subhana_allah">SubhanaAllahActivity</string>
+    <string name="title_activity_alhamdulillah">AlhamdulillahActivity</string>
+</resources>
